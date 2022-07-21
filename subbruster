@@ -55,18 +55,18 @@ help() {
                Single Domains Based
 \e[93m=================================================\e[0m
 
-\e[37m./subdomainer -t domain.com -f true -g 55aa66bb4aa8mm9mmss334422-weqas -w /usr/share/wordlist/dirbuster/directories.jbrofuzz\e[0m
+\e[37m./subbuster -t domain.com -f true -g 55aa66bb4aa8mm9mmss334422-weqas -w /usr/share/wordlist/dirbuster/directories.jbrofuzz\e[0m
 
-\e[37m./subdomainer -t domains.com -d true -g 55aa66bb4aa8mm9mmss334422-weqas -w /usr/share/wordlist/dirbuster/directories.jbrofuzz\e[0m
+\e[37m./subbuster -t domains.com -d true -g 55aa66bb4aa8mm9mmss334422-weqas -w /usr/share/wordlist/dirbuster/directories.jbrofuzz\e[0m
 
 
 \e[93m=================================================\e[0m
                Domains List Based
 \e[93m=================================================\e[0m
 
-\e[37m./subdomainer -l domains.txt -d true -g 55aa66bb4aa8mm9mmss334422-weqas -w /usr/share/wordlist/dirbuster/directories.jbrofuzz -i\e[0m
+\e[37m./subbuster -l domains.txt -d true -g 55aa66bb4aa8mm9mmss334422-weqas -w /usr/share/wordlist/dirbuster/directories.jbrofuzz -i\e[0m
 
-\e[37m./subdomainer -l domains.txt -f true -g 55aa66bb4aa8mm9mmss334422-weqas -w /usr/share/wordlist/dirbuster/directories.jbrofuzz\e[0m
+\e[37m./subbuster -l domains.txt -f true -g 55aa66bb4aa8mm9mmss334422-weqas -w /usr/share/wordlist/dirbuster/directories.jbrofuzz\e[0m
 
 
 "
